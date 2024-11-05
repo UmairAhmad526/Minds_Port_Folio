@@ -9,7 +9,7 @@
 
 <tr>
     <td>User Name</td>
-	<td><input type="text" name="username"></td>	
+	<td><input type="text" name="username">        </td>	
 </tr>
 <tr>
     <td>Password</td>
@@ -21,7 +21,7 @@
 </tr>
 <tr>
     <td>Gender</td>
-	<td><input type="radio" name="M"> Male</td>
+	<td><input type="radio" name="M"> Male</td	>
 <tr>
 	<td></td>
 	<td><input type="radio" name="F"> Female</td> 	
@@ -54,14 +54,7 @@
 </table>
 
 </form>
-
-	
-	
-	
-	
- 
- 
-
-     </body>
+  
+</body>
 
 </html>
