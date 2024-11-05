@@ -1,0 +1,71 @@
+<html>
+
+<head>   </head>
+
+
+    <body>
+<form>
+<table border = "0">
+
+<tr>
+    <td>User Name</td>
+	<td><input type="text" name="username"></td>	
+</tr>
+<tr>
+    <td>Password</td>
+	<td><input type="text" name="Password"></td>	
+</tr>
+<tr>
+    <td>Confirm Password</td>
+	<td><input type="text" name="Confirm Password"></td>	
+</tr>
+<tr>
+    <td>Gender</td>
+	<td><input type="radio" name="M"> Male</td	>
+<tr>
+	<td></td>
+	<td><input type="radio" name="F"> Female</td> 	
+</tr>
+<tr>
+    <td>Date of Birth</td>
+	<td><input type="Date" name="18/09/1997"></td>	
+</tr>
+
+
+<tr>
+  <td> <select name="country">
+		<option value="pk">Pakistan</option>
+		<option value="in">India</option>
+	</select> </td>
+</tr>
+
+<tr>
+       <td><textarea rows="10" cols="30" name=“description”> ok Im at home waiting for your reply
+
+        </textarea></td>
+
+</tr>
+
+<tr>
+         <td><input type=“submit" value="Submit!"></td>
+</tr>
+
+
+
+
+
+
+</table>
+
+</form>
+
+	
+	
+	
+	
+ 
+ 
+
+     </body>
+
+</html>
