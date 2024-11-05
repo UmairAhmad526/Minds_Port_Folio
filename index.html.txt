@@ -9,7 +9,7 @@
 
 <tr>
     <td>User Name</td>
-	<td><input type="text" name="username">        </td>	
+	<td><input type="text" name="username"></td>	
 </tr>
 <tr>
     <td>Password</td>
@@ -55,6 +55,8 @@
 
 </form>
   
+             <img src="C:\Git\Project 1\Assets\pic1.jpg" alt="Cat"> 
+
 </body>
 
 </html>
