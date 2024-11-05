@@ -56,6 +56,7 @@
 </form>
   
              <img src="C:\Git\Project 1\Assets\pic1.jpg" alt="Cat"> 
+             <img src="C:\Git\Project 1\Assets\pic3.jpg" alt="Macaow Parrot">
 
 </body>
 
